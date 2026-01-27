@@ -1,0 +1,7 @@
+SQL_INJECTION ON USERS PAGE => GOT FROM SECRETS TABLE
+FLAG{1nj3ct10n_15_ju5t_th3_b3g1nn1ng}
+FLAG{un10n_s3l3ct5_unl0ck_s3cr3t5}
+FLAG{bl1nd_but_n0t_d34f_t0_3rr0r5}
+
+Directory Traversal => Got from flag.txt in /home/flag.txt
+FLAG{tr4v3rs3_th3_d1r3ct0ry_l1k3_4_gh0st}

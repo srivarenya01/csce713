@@ -1,0 +1,31 @@
+HackerHub API Documentation
+
+AUTHENTICATION ENDPOINTS:
+POST /api/auth.php
+  - action: login | register | verify_token
+  - Returns: JSON response with user data and token
+
+FILE ENDPOINTS:
+GET /api/files.php?file=<filename>
+  - Retrieves file content
+  - Returns: JSON with file content
+
+SEARCH ENDPOINTS:
+GET /api/search.php?q=<query>
+  - Searches platform content
+  - Returns: JSON with search results
+
+USER ENDPOINTS:
+GET /api/users.php
+  - search: Search by username
+  - id: Filter by user ID
+  - filter: Advanced filtering options
+
+COMMENT ENDPOINTS:
+GET /api/comments.php?action=list
+  - Lists all comments
+POST /api/comments.php
+  - action: post
+  - content: Comment text
+
+All endpoints require authentication unless specified.

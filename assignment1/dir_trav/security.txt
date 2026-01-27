@@ -1,0 +1,24 @@
+HackerHub Security Guidelines
+
+PLATFORM SECURITY:
+- All passwords are hashed using bcrypt
+- Session tokens are generated using SHA-256
+- Input validation on all endpoints
+- SQL injection protection via prepared statements
+- XSS prevention through output escaping
+- CSRF protection enabled
+- Rate limiting implemented
+- Path traversal protection in file system
+
+BEST PRACTICES:
+- Use strong passwords
+- Don't share your credentials
+- Report security issues responsibly
+- Keep your profile information private
+- Be cautious with external links
+
+REPORTING VULNERABILITIES:
+If you discover a security issue, please report it to:
+security@hackerhub.com
+
+We take security seriously and appreciate responsible disclosure.
