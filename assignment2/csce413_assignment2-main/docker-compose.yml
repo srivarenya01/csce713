@@ -92,6 +92,8 @@ services:
     dns:
       - 8.8.8.8
       - 1.1.1.1
+    cap_add:
+      - NET_ADMIN
     ports:
       - "2222:22"
     networks:

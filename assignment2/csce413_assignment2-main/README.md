@@ -172,8 +172,8 @@ The web application communicates with a MySQL database to fetch and display user
 2. **Capture traffic using tcpdump:**
    ```bash
    # Get container IPs
-   docker inspect 2_network_webapp | grep IPAddress
-   docker inspect 2_network_database | grep IPAddress
+   sudo docker inspect 2_network_webapp | grep IPAddress
+   sudo docker inspect 2_network_database | grep IPAddress
    
    # Capture traffic on the Docker bridge
    sudo tcpdump -i br-<network_id> -A -s 0 'port 3306'
@@ -328,7 +328,7 @@ Use the provided `honeypot/` starter template and update it to include:
 **Testing:**
 ```bash
 # Start your honeypot
-docker-compose up honeypot
+sudo docker-compose up honeypot
 
 # Simulate attacks (from another terminal)
 ssh admin@localhost -p 22
@@ -495,13 +495,13 @@ Your `report.pdf` should include:
 ### Docker Network Issues
 ```bash
 # List networks
-docker network ls
+sudo docker network ls
 
 # Inspect network
-docker network inspect 2_network_vulnerable_network
+sudo docker network inspect 2_network_vulnerable_network
 
 # Get container IPs
-docker inspect <container_name> | grep IPAddress
+sudo docker inspect <container_name> | grep IPAddress
 ```
 
 ### Port Scanner Not Finding Services
@@ -532,7 +532,7 @@ sudo usermod -a -G wireshark $USER
 
 ### Port Knocking Not Working
 - Check iptables rules: `sudo iptables -L -n -v`
-- Verify knock daemon is running: `docker logs <container>`
+- Verify knock daemon is running: `sudo docker logs <container>`
 - Test each knock port individually with netcat
 - Check firewall logs: `sudo tail -f /var/log/syslog`
 
@@ -540,7 +540,7 @@ sudo usermod -a -G wireshark $USER
 - Check file permissions on log directory
 - Verify honeypot is listening: `netstat -tlnp | grep <port>`
 - Test connection: `nc localhost <port>`
-- Check honeypot logs: `docker logs <honeypot_container>`
+- Check honeypot logs: `sudo docker logs <honeypot_container>`
 
 ## Academic Integrity
 
@@ -571,9 +571,9 @@ As you complete this assignment, remember:
 If you encounter technical issues:
 
 1. Check the Troubleshooting section above
-2. Review Docker logs: `docker-compose logs <service_name>`
-3. Verify all containers are running: `docker-compose ps`
-4. Try rebuilding: `docker-compose down -v && docker-compose up --build`
+2. Review Docker logs: `sudo docker-compose logs <service_name>`
+3. Verify all containers are running: `sudo docker-compose ps`
+4. Try rebuilding: `sudo docker-compose down -v && sudo docker-compose up --build`
 5. Post on the course discussion board (without sharing solutions)
 6. Contact course staff during office hours
 
