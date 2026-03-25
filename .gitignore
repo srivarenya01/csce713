@@ -5,3 +5,10 @@ target
 
 # Python
 __pycache__
+venv
+
+# Assignment 3
+app-release-jadx
+
+# Vulnerabilities
+web_vulns/
