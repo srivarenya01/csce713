@@ -10,5 +10,13 @@ venv
 # Assignment 3
 app-release-jadx
 
+# Assignment 6
+# Assignment package consists of Ransomware :)
+*.tar
+
+# Assignment 7
+assignment7
+
 # Vulnerabilities
 web_vulns/
+nonwebvulns/
